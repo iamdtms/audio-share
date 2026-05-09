@@ -5,5 +5,5 @@ SUCCESS:
 - download blocked
 
 BUT:
-- DevTools resource panel available
+- DevTools sources panel available
 - DevTools elements available
